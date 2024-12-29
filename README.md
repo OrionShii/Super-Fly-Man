@@ -10,6 +10,11 @@ This is a clone of the classic game "Flappy Bird" built using the Pygame library
 - Score tracking to challenge players to beat their high score.
 - Game over screen with options to restart or exit the game.
 
+![Screenshot 2024-06-08 194404](https://github.com/user-attachments/assets/be197bc2-a469-43aa-971d-c9794126e437)
+![Screenshot 2024-06-08 194420](https://github.com/user-attachments/assets/c7402cec-3e3a-4786-9120-e4fdc0a724ff)
+![Screenshot 2024-06-08 194557](https://github.com/user-attachments/assets/50513fe2-d859-45b7-bd05-cf4ea1e87150)
+
+
 **Language Used:** Python
 
 **Dependencies:**
